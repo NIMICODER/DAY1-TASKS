@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\bin\Debug\CHALLENGE4.exe.config
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\bin\Debug\CHALLENGE4.exe
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\bin\Debug\CHALLENGE4.pdb
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\obj\Debug\CHALLENGE4.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\obj\Debug\CHALLENGE4.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\obj\Debug\CHALLENGE4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\obj\Debug\CHALLENGE4.exe
+C:\Users\HP\source\repos\CHALLENGE4\CHALLENGE4\obj\Debug\CHALLENGE4.pdb

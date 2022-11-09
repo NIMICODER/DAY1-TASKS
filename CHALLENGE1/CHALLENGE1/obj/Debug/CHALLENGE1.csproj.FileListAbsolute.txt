@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\bin\Debug\CHALLENGE1.exe.config
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\bin\Debug\CHALLENGE1.exe
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\bin\Debug\CHALLENGE1.pdb
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\obj\Debug\CHALLENGE1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\obj\Debug\CHALLENGE1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\obj\Debug\CHALLENGE1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\obj\Debug\CHALLENGE1.exe
+C:\Users\HP\source\repos\CHALLENGE1\CHALLENGE1\obj\Debug\CHALLENGE1.pdb
